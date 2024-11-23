@@ -166,4 +166,4 @@
 ID посылки задачи A1i: **[291486130]**
 
 ### Ссылка на репозиторий
-[GitHub репозиторий с исходными данными и реализациями]([https://github.com/your-repo](https://github.com/Davonchik/Algo_HW_A1)
+[GitHub репозиторий с исходными данными и реализациями](https://github.com/Davonchik/Algo_HW_A1)
